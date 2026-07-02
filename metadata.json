@@ -1,0 +1,6 @@
+{
+  "name": "أهدافي - متعقب الأهداف الذكي",
+  "description": "تطبيق ذكي لإدارة ومتابعة الأهداف اليومية، الشهرية والسنوية مع لوحات إحصائية تفاعلية ومساعد ذكي مدعوم بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
